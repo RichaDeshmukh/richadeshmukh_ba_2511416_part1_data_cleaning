@@ -76,7 +76,7 @@ Actions performed:
 
 Actions performed:
 
-- Identified exact duplicate records
+- Identified exact duplicate records i.e.20 in number.
 - Identified duplicate Order IDs
 - Removed only exact duplicate rows
 - Flagged duplicate Order IDs with conflicting information for manual review
